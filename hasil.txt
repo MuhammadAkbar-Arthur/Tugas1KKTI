@@ -1,0 +1,4 @@
+PS G:\My Drive\UNRAM\SEMESTER 1-8\Semester5\2.1 Kriftografi dan Keamanan Teknologi Informasi\Training\Tugas1KKTI> python -u "g:\My Drive\UNRAM\SEMESTER 1-8\Semester5\2.1 Kriftografi dan Keamanan Teknologi Informasi\Training\Tugas1KKTI\enigma75.py"
+Hasil Dekripsi Bagian 3:
+HALOMUHAMMADNIMFDSELAMATMENGERJAKANSOALENIGMA
+PS G:\My Drive\UNRAM\SEMESTER 1-8\Semester5\2.1 Kriftografi dan Keamanan Teknologi Informasi\Training\Tugas1KKTI> 
